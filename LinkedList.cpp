@@ -1,4 +1,4 @@
-// LL of integers - tail,size,insert,delete,eleAtPos,reverse, print
+// Singly LL of integers - tail,size,insert,delete,eleAtPos,reverse, print
 
 #include "bits/stdc++.h"
 using namespace std;
